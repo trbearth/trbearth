@@ -1,15 +1,16 @@
-Student engineer in New Jersey building hardware and software.
+High school engineer in New Jersey. I build hardware and software end-to-end.
 
 ### Currently building
-- **[StraightUP!](https://straightupdevice.com)** — wearable posture-correction device. 3-node IMU array detects pelvic misalignment in real time and triggers haptic feedback; companion web app logs sessions and alignment scores.
-- **[Apto](https://tryapto.com)** — AI college-admissions tool that generates researched, citation-backed school lists.
+- **[StraightUP!](https://straightupdevice.com)** — wearable posture-correction device. An IMU sensor array detects pelvic misalignment in real time and triggers haptic feedback; companion web app tracks sessions.
+- **[Apto](https://tryapto.com)** — AI college-admissions tool that builds researched, citation-backed school lists on the Perplexity Sonar API.
 
-### Other work
-- FRC robotics (states qualifier), previously FTC captain
-- Adolescent health-data research using public datasets (ABCD, NSCH)
+### In progress
+- **Stride** — dance formation-tracking wearable using UWB for real-time positioning.
+- **IBD/ADHD comorbidity research** — modeling adolescent health data with public datasets.
 
-**Stack:** TypeScript · Next.js · Supabase · Python · embedded C/C++ · KiCad
+### Earlier
+Croft (CV ag-drone) · Perch (Chrome extension) · FRC robotics, states qualifier (prev. FTC captain)
 
-Product repositories are private; the contribution graph reflects that work.
+**Stack:** TypeScript · Next.js · Supabase · Python · embedded C/C++
 
 🔗 [taranbethi.com](https://taranbethi.com)
