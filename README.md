@@ -1,16 +1,15 @@
-## Hi there 👋
+Student engineer in New Jersey building hardware and software.
 
-<!--
-**trbearth/trbearth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Currently building
+- **[StraightUP!](https://straightupdevice.com)** — wearable posture-correction device. 3-node IMU array detects pelvic misalignment in real time and triggers haptic feedback; companion web app logs sessions and alignment scores.
+- **[Apto](https://tryapto.com)** — AI college-admissions tool that generates researched, citation-backed school lists.
 
-Here are some ideas to get you started:
+### Other work
+- FRC robotics (states qualifier), previously FTC captain
+- Adolescent health-data research using public datasets (ABCD, NSCH)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Stack:** TypeScript · Next.js · Supabase · Python · embedded C/C++ · KiCad
+
+Product repositories are private; the contribution graph reflects that work.
+
+🔗 [taranbethi.com](https://taranbethi.com)
