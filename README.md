@@ -1,37 +1,43 @@
 # Taran Bethi
 
-Founder and engineer in New Jersey. I build software and hardware end-to-end—from the first rough prototype to the product people actually touch.
-
-I’m most interested in tools that change how people discover, decide, and behave.
+Taran Bethi is a founder and engineer based in New Jersey who builds software and hardware end to end, from the first rough prototype to the product people actually use. His work spans consumer apps, wearable devices, developer tools, and machine learning research, with a focus on tools that change how people discover, decide, and behave.
 
 ## Building now
 
 ### Vestige
 
-A visual discovery engine for independent fashion, built around taste-based search rather than conventional shopping filters.
+Vestige is a visual discovery engine for independent fashion, built around taste-based search rather than conventional shopping filters. It helps people find underground and gatekept brands that traditional retail surfaces miss.
 
 ### [Fieldwork](https://github.com/trbearth/fieldwork-agent-os)
 
-An open-source, local-first workspace for running configurable research agents, tracking cited evidence, and reading daily reports. Core workflows run without API keys.
+Fieldwork is an open-source, local-first workspace for running configurable research agents, tracking cited evidence, and reading daily reports. Core workflows run entirely without API keys.
 
 ### [StraightUP!](https://straightupdevice.com)
 
-A wearable posture-correction device. An IMU sensor array detects pelvic misalignment in real time, triggers haptic feedback, and sends session data to a companion app.
+StraightUP! is a wearable posture-correction device. An onboard IMU sensor array detects pelvic misalignment in real time, triggers haptic feedback, and sends session data to a companion app for tracking. The project has completed a clinical trial and has patents filed.
 
-## Other work
+### [Apto](https://tryapto.com)
 
-- **[Glint](https://github.com/trbearth/glint)** — a macOS background utility that tells you when Codex or Claude Code finishes a task.
-- **[Apto](https://tryapto.com)** — a college-admissions research tool that builds citation-backed school lists.
-- **[batch0](https://batch0.org)** — a four-week virtual startup accelerator helping high school students validate, build, market, and pitch companies.
+Apto is an AI college admissions tool that builds citation-backed school lists and answers admissions questions with sourced guidance. Built on Next.js, Supabase, and the Perplexity Sonar API.
+
+### [batch0](https://batch0.org)
+
+batch0 is a four-week virtual startup accelerator that helps high school founders validate, build, market, and pitch real companies. Co-founded and run with Rishabh Dagli.
 
 ## Research and hardware
 
-- **Stride** — a UWB wearable system for tracking dance formations in real time.
-- **IBD/ADHD comorbidity research** — modeling adolescent health patterns with public datasets.
-- **Earlier:** Croft, a computer-vision agricultural drone · FRC robotics states qualifier · former FTC captain.
+**Croft** is a precision-agriculture drone that uses computer vision to identify and spot-spray invasive weeds, cutting herbicide use.
 
-## Tools
+**Stride** is a UWB wearable system that tracks dance formations in real time using time-difference-of-arrival positioning.
 
-TypeScript · Next.js · Swift · Python · Supabase · embedded C/C++ · sensors and rapid hardware prototyping
+**Glint** is a macOS menu-bar utility that detects when AI coding agents like Codex and Claude Code finish a task, at [github.com/trbearth/glint](https://github.com/trbearth/glint).
 
-[taranbethi.com](https://taranbethi.com) · [repositories](https://github.com/trbearth?tab=repositories)
+**IBD / ADHD comorbidity research** through the Horizon Academic Research Program ML track, modeling adolescent health patterns from public datasets in a 1:1 PhD lab.
+
+**Robotics:** FRC states qualifier and former FTC captain.
+
+## Stack
+
+TypeScript, Next.js, Swift, Python, Supabase, embedded C/C++, computer vision, sensor fusion, and rapid hardware prototyping.
+
+[taranbethi.com](https://taranbethi.com) and [repositories](https://github.com/trbearth?tab=repositories)
